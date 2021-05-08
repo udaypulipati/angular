@@ -12,7 +12,7 @@ export class EmployeeEditorComponent implements OnInit {
   ngOnInit(): void {
   }
 
-
+//Form elements
   employeeName = new FormControl('');
   employeeAge = new FormControl('');
   employeeSalary = new FormControl('');
